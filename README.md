@@ -1,9 +1,22 @@
 # Tkinter Mini-Projects
 
+## Tkinter PC Building App
+
+### Overview
+Welcome to the Tkinter PC Building App! This application simplifies the process of selecting components for building a custom PC. With a user-friendly interface reminiscent of a form, you can effortlessly choose your preferred components and calculate the total cost of your build.
+
+![image](https://github.com/Mohannad20/Tk-projects/assets/72934299/5a82c310-fa5d-4e67-a524-3967db0014c6)
+
+### Features
+- **Component Selection:** Choose components such as monitor type and size, motherboard, and more using checkbox buttons, radio buttons, and a combobox.
+- **Dynamic Pricing:** As you select different components, the app dynamically calculates the total cost of your PC build.
+- **Calculate Total Price:** Once you've made all your selections, simply click the "Calculate" button to see the estimated total cost of your custom PC build.
+
 ## Tic-Tac-Toe Game
 
 ### Overview
 This [file](https://github.com/Mohannad20/Tk-projects/blob/main/TicTacToe.py) contains a simple yet engaging implementation of the classic Tic-Tac-Toe game or XO or whatever you call it, built using the Tkinter framework. Tic-Tac-Toe is a two-player game where each player takes turns marking spaces on a 3x3 grid, aiming to create a row of their symbol (either 'X' or 'O'). The player who successfully forms a row first wins the game.
+
 
 ![Screenshot 2024-02-27 015828](https://github.com/Mohannad20/Tk-projects/assets/72934299/c8368781-1c3c-40e2-9e0a-fbbb34df190c)
 
